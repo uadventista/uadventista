@@ -1,3 +1,4 @@
+<img src="https://repository-images.githubusercontent.com/416353383/54de0052-4fbe-4aff-a6be-fcc64988a7ee">
 - 👋 Hola, Soy @uadventista, el repositorio oficial de la Universidad Adventista de Chile, controlado por la Dirección de Comunicaciones DIRCOM.
 - 👀 Estamos interesados en crear los eventos para la universidad de la forma más compacta posible.
 - 💞️ Estamos buscando colaborar con el medio.
